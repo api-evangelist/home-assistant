@@ -64,5 +64,29 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Home Assistant is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://home-assistant.io/
+Home Assistant is an open-source home automation platform developed by the Open Home Foundation. It enables local control and privacy‑first integration of thousands of smart devices, offering a web UI, mobile apps, voice assistants, and extensive automation capabilities. The community‑driven project provides extensive documentation, a vibrant forum, and regular releases, positioning it as a leading solution for DIY smart homes.
+
+**Areas:** Home Automation · Open Source · IoT · Community · Nonprofit
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.home-assistant.io/)
+- [Documentation](https://www.home-assistant.io/docs)
+- [Getting started](https://www.home-assistant.io/getting-started)
+- [API reference](https://contributors.home-assistant.io/community/reference/events/)
+- [Support](https://www.home-assistant.io/help)
+- [Changelog](https://contributors.home-assistant.io/releases/)
+- [Blog](https://www.home-assistant.io/blog)
+- [Security](https://www.home-assistant.io/security/)
+- [Terms of service](https://www.home-assistant.io/tos/)
+- [Privacy policy](https://www.home-assistant.io/privacy/)
+- [GitHub](https://github.com/home-assistant)
+- [Status](https://status.home-assistant.io)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/home-assistant/](https://apis.io/providers/home-assistant/).
